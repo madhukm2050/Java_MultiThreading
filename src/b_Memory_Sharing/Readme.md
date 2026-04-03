@@ -33,3 +33,9 @@ Java uses **synchronization** to control access to shared resources and avoid in
 synchronized void increment() {
     count++;
 }
+```
+### Synchronization 
+Synchronization is a mechanism in Java that ensures only one thread can access a shared resource at a time.
+
+### Thread Join
+The join() method is used to make one thread wait until another thread finishes execution.
