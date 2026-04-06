@@ -1,4 +1,4 @@
-package b_Memory_Sharing;
+package B_Memory_Sharing;
 
 public class PrivateMemory {
     public static void main(String[] args) {

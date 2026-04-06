@@ -1,4 +1,4 @@
-package d_atomic_Integer;
+package C_atomic_Integer;
 
 public class Printer implements Runnable{
 

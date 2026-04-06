@@ -1,4 +1,4 @@
-package d_atomic_Integer;
+package C_atomic_Integer;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package b_Memory_Sharing;
+package B_Memory_Sharing;
 
 class Counter1 {
     int count = 0; // shared variable (stored in heap)
@@ -32,7 +32,7 @@ public class SynchronizedSharedMemory {
         t2.start();
 
 
-        // we are using join here because Main method prints too early
+        // we are using join here because Fizz_Buzz_Using_Semaphore method prints too early
         try {
             t1.join();
             t2.join();

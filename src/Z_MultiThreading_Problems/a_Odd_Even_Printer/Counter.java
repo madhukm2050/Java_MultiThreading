@@ -1,4 +1,4 @@
-package MultiThreading_Problems.Odd_Even_Printer;
+package Z_MultiThreading_Problems.a_Odd_Even_Printer;
 
 public class Counter {
     private int count = 1;
